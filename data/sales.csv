@@ -1,0 +1,1001 @@
+Order_ID,Product,Category,City,Region,Payment_Method,Quantity,Unit_Price,Order_Date,Sales
+1001,Monitor,Accessories,Chennai,East,Net Banking,10,63788,2026-01-02,637880
+1001,Laptop,Accessories,Trichy,West,Credit Card,5,3802,2026-08-21,19010
+1001,Tablet,Accessories,Trichy,East,Credit Card,1,64963,2026-02-07,64963
+1001,Tablet,Electronics,Madurai,West,Net Banking,4,66995,2026-03-04,267980
+1001,Monitor,Accessories,Pondicherry,West,Credit Card,8,65812,2026-09-18,526496
+1001,Keyboard,Accessories,Trichy,South,UPI,10,38555,2026-04-04,385550
+1001,Laptop,Electronics,Trichy,South,Cash,5,91201,2026-07-06,456005
+1001,Mouse,Electronics,Salem,North,Credit Card,4,81452,2026-03-15,325808
+1001,Phone,Electronics,Coimbatore,South,Net Banking,4,86382,2026-10-15,345528
+1001,Monitor,Accessories,Pondicherry,West,Net Banking,3,38557,2026-01-07,115671
+1001,Mouse,Accessories,Madurai,North,Net Banking,3,65489,2026-05-26,196467
+1001,Tablet,Electronics,Coimbatore,East,Credit Card,1,77648,2026-08-17,77648
+1001,Mouse,Accessories,Chennai,East,UPI,7,65248,2026-08-20,456736
+1001,Keyboard,Electronics,Chennai,West,Cash,1,41273,2026-09-09,41273
+1001,Phone,Electronics,Pondicherry,South,Net Banking,7,93428,2026-03-21,653996
+1001,Mouse,Electronics,Pondicherry,North,Credit Card,1,54921,2026-09-25,54921
+1001,Phone,Accessories,Chennai,South,Debit Card,6,27761,2026-10-29,166566
+1001,Tablet,Electronics,Salem,East,Net Banking,4,91143,2026-09-24,364572
+1001,Monitor,Electronics,Trichy,East,UPI,1,50453,2026-03-27,50453
+1001,Tablet,Accessories,Chennai,South,Net Banking,1,73519,2026-03-29,73519
+1001,Laptop,Electronics,Coimbatore,South,Cash,8,45030,2026-09-25,360240
+1001,Keyboard,Accessories,Trichy,North,Debit Card,3,63580,2026-11-12,190740
+1001,Tablet,Accessories,Pondicherry,South,UPI,8,49784,2026-12-07,398272
+1001,Monitor,Electronics,Madurai,East,Debit Card,3,73250,2026-01-20,219750
+1001,Tablet,Electronics,Chennai,East,Credit Card,10,89977,2026-02-15,899770
+1001,Monitor,Accessories,Coimbatore,West,Cash,7,2415,2026-12-20,16905
+1001,Monitor,Accessories,Trichy,West,Cash,3,3645,2026-12-08,10935
+1001,Tablet,Accessories,Coimbatore,West,Cash,7,70650,2026-04-09,494550
+1001,Keyboard,Accessories,Trichy,North,Debit Card,2,32758,2026-09-05,65516
+1001,Mouse,Electronics,Coimbatore,South,Cash,7,46416,2026-12-20,324912
+1001,Tablet,Accessories,Pondicherry,East,UPI,2,44336,2026-07-14,88672
+1001,Keyboard,Electronics,Chennai,West,Credit Card,4,64581,2026-01-10,258324
+1001,Mouse,Accessories,Chennai,East,Cash,5,84657,2026-05-15,423285
+1001,Keyboard,Electronics,Coimbatore,South,UPI,3,82163,2026-03-03,246489
+1001,Monitor,Accessories,Chennai,East,UPI,8,89548,2026-05-19,716384
+1001,Monitor,Accessories,Trichy,East,Credit Card,7,1370,2026-06-22,9590
+1001,Phone,Accessories,Trichy,North,Net Banking,5,19816,2026-06-03,99080
+1001,Tablet,Electronics,Coimbatore,West,Credit Card,5,4982,2026-10-19,24910
+1001,Laptop,Electronics,Pondicherry,West,Debit Card,1,35984,2026-11-10,35984
+1001,Mouse,Accessories,Coimbatore,South,Credit Card,4,2857,2026-06-19,11428
+1001,Laptop,Electronics,Coimbatore,South,Net Banking,3,64993,2026-02-17,194979
+1001,Tablet,Accessories,Salem,South,Credit Card,9,10108,2026-08-01,90972
+1001,Phone,Accessories,Chennai,East,Debit Card,6,75290,2026-08-18,451740
+1001,Tablet,Electronics,Salem,South,Cash,2,89833,2026-07-23,179666
+1001,Monitor,Accessories,Pondicherry,South,Credit Card,4,67084,2026-10-14,268336
+1001,Keyboard,Electronics,Salem,South,Debit Card,1,63693,2026-09-08,63693
+1001,Phone,Accessories,Trichy,North,UPI,3,41775,2026-03-25,125325
+1001,Monitor,Electronics,Trichy,North,Credit Card,10,95125,2026-10-04,951250
+1001,Phone,Electronics,Trichy,East,Cash,8,96704,2026-09-08,773632
+1001,Phone,Electronics,Trichy,South,Debit Card,8,98117,2026-08-03,784936
+1001,Mouse,Accessories,Salem,West,Cash,1,47927,2026-03-01,47927
+1001,Phone,Electronics,Madurai,North,Cash,5,22800,2026-04-01,114000
+1001,Monitor,Electronics,Trichy,East,UPI,1,81789,2026-10-13,81789
+1001,Phone,Electronics,Madurai,West,Debit Card,4,18896,2026-07-16,75584
+1001,Keyboard,Accessories,Madurai,West,Net Banking,4,91847,2026-12-26,367388
+1001,Keyboard,Accessories,Salem,South,UPI,6,531,2026-05-19,3186
+1001,Keyboard,Accessories,Pondicherry,East,Net Banking,5,10541,2026-03-14,52705
+1001,Mouse,Electronics,Trichy,West,Net Banking,8,97325,2026-06-30,778600
+1001,Mouse,Accessories,Chennai,West,UPI,10,96716,2026-09-15,967160
+1001,Mouse,Accessories,Salem,East,UPI,10,21513,2026-02-07,215130
+1001,Mouse,Accessories,Pondicherry,West,Net Banking,4,24490,2026-11-08,97960
+1001,Monitor,Accessories,Chennai,North,Debit Card,4,84635,2026-10-14,338540
+1001,Tablet,Accessories,Chennai,West,Net Banking,10,9493,2026-03-03,94930
+1001,Tablet,Accessories,Pondicherry,East,Cash,6,3277,2026-10-04,19662
+1001,Keyboard,Electronics,Coimbatore,West,Cash,10,91800,2026-02-23,918000
+1001,Laptop,Electronics,Coimbatore,East,Debit Card,9,94202,2026-04-02,847818
+1001,Laptop,Accessories,Madurai,East,Credit Card,6,71083,2026-08-14,426498
+1001,Laptop,Electronics,Pondicherry,North,Net Banking,6,93786,2026-02-15,562716
+1001,Laptop,Electronics,Coimbatore,West,Net Banking,6,83505,2026-07-15,501030
+1001,Phone,Accessories,Chennai,East,Net Banking,5,92987,2026-04-19,464935
+1001,Monitor,Electronics,Pondicherry,North,Net Banking,6,36360,2026-11-07,218160
+1001,Phone,Electronics,Pondicherry,South,Credit Card,3,15446,2026-11-01,46338
+1001,Monitor,Electronics,Trichy,East,Credit Card,6,83158,2026-07-22,498948
+1001,Keyboard,Accessories,Trichy,North,UPI,7,70361,2026-01-19,492527
+1001,Mouse,Accessories,Salem,East,Debit Card,7,71311,2026-06-12,499177
+1001,Mouse,Electronics,Chennai,West,Net Banking,4,61491,2026-10-18,245964
+1001,Laptop,Accessories,Coimbatore,North,Debit Card,4,13399,2026-12-23,53596
+1001,Phone,Accessories,Trichy,South,Credit Card,6,80162,2026-06-11,480972
+1001,Laptop,Accessories,Coimbatore,West,Debit Card,9,43666,2026-10-04,392994
+1001,Laptop,Accessories,Salem,South,Debit Card,7,50108,2026-01-15,350756
+1001,Keyboard,Electronics,Trichy,East,Net Banking,5,55765,2026-04-01,278825
+1001,Tablet,Accessories,Trichy,South,Cash,3,42615,2026-02-13,127845
+1001,Tablet,Accessories,Chennai,South,Net Banking,6,66405,2026-01-01,398430
+1001,Tablet,Electronics,Coimbatore,East,Debit Card,5,20683,2026-12-21,103415
+1001,Mouse,Electronics,Salem,West,Credit Card,9,43172,2026-09-23,388548
+1001,Mouse,Electronics,Madurai,West,UPI,3,76886,2026-03-05,230658
+1001,Laptop,Accessories,Coimbatore,East,Debit Card,1,7548,2026-06-07,7548
+1001,Keyboard,Electronics,Salem,West,Debit Card,9,47168,2026-11-10,424512
+1001,Monitor,Electronics,Salem,West,Cash,9,78570,2026-03-28,707130
+1001,Tablet,Accessories,Pondicherry,East,Cash,1,7221,2026-11-15,7221
+1001,Mouse,Accessories,Coimbatore,North,UPI,5,56971,2026-11-26,284855
+1001,Tablet,Accessories,Madurai,South,Cash,10,7191,2026-12-04,71910
+1001,Laptop,Accessories,Pondicherry,North,Credit Card,6,675,2026-08-05,4050
+1001,Monitor,Accessories,Pondicherry,South,Credit Card,8,48758,2026-07-27,390064
+1001,Phone,Accessories,Madurai,East,Net Banking,5,55069,2026-08-20,275345
+1001,Tablet,Electronics,Chennai,East,Debit Card,3,32659,2026-06-16,97977
+1001,Laptop,Electronics,Trichy,South,Cash,3,87243,2026-10-08,261729
+1001,Phone,Electronics,Chennai,South,Net Banking,2,55195,2026-09-26,110390
+1001,Keyboard,Accessories,Salem,East,Cash,1,27466,2026-06-20,27466
+1001,Monitor,Electronics,Coimbatore,South,Cash,10,32586,2026-12-06,325860
+1001,Mouse,Accessories,Salem,West,Net Banking,4,7595,2026-11-25,30380
+1001,Mouse,Accessories,Chennai,East,Debit Card,2,28147,2026-06-10,56294
+1001,Phone,Accessories,Pondicherry,West,Cash,6,73688,2026-12-25,442128
+1001,Tablet,Electronics,Pondicherry,East,UPI,8,1902,2026-06-19,15216
+1001,Monitor,Accessories,Madurai,North,Debit Card,1,17673,2026-05-15,17673
+1001,Keyboard,Electronics,Pondicherry,South,Credit Card,2,54817,2026-12-05,109634
+1001,Tablet,Accessories,Chennai,South,Cash,8,87403,2026-08-22,699224
+1001,Keyboard,Accessories,Pondicherry,South,UPI,7,66856,2026-06-23,467992
+1001,Keyboard,Electronics,Coimbatore,West,Debit Card,9,93662,2026-04-24,842958
+1001,Mouse,Accessories,Chennai,North,Debit Card,2,20327,2026-04-21,40654
+1001,Tablet,Electronics,Madurai,East,Credit Card,2,71698,2026-06-30,143396
+1001,Tablet,Accessories,Salem,West,UPI,10,31796,2026-11-03,317960
+1001,Laptop,Accessories,Trichy,East,UPI,7,11905,2026-09-16,83335
+1001,Laptop,Electronics,Salem,East,Net Banking,3,60693,2026-07-14,182079
+1001,Laptop,Accessories,Madurai,West,Cash,1,69925,2026-01-06,69925
+1001,Phone,Accessories,Coimbatore,East,Credit Card,9,15773,2026-01-10,141957
+1001,Monitor,Accessories,Trichy,North,UPI,10,18699,2026-01-18,186990
+1001,Mouse,Electronics,Salem,West,Net Banking,8,1972,2026-06-26,15776
+1001,Keyboard,Electronics,Salem,South,Debit Card,5,76959,2026-05-28,384795
+1001,Monitor,Electronics,Chennai,South,Credit Card,7,9778,2026-04-05,68446
+1001,Monitor,Electronics,Salem,East,Debit Card,3,68059,2026-09-13,204177
+1001,Monitor,Electronics,Pondicherry,North,Cash,8,66279,2026-06-23,530232
+1001,Keyboard,Electronics,Pondicherry,West,Debit Card,2,70370,2026-08-14,140740
+1001,Phone,Electronics,Coimbatore,West,Cash,8,15825,2026-05-24,126600
+1001,Tablet,Electronics,Madurai,North,Credit Card,5,80713,2026-10-07,403565
+1001,Keyboard,Accessories,Chennai,West,Debit Card,9,60735,2026-07-06,546615
+1001,Laptop,Electronics,Coimbatore,North,Credit Card,4,33188,2026-11-14,132752
+1001,Laptop,Electronics,Pondicherry,South,Net Banking,3,13397,2026-07-22,40191
+1001,Laptop,Electronics,Salem,East,UPI,4,4039,2026-03-21,16156
+1001,Mouse,Electronics,Chennai,East,Net Banking,8,49176,2026-05-23,393408
+1001,Monitor,Electronics,Coimbatore,West,Debit Card,7,6636,2026-07-06,46452
+1001,Tablet,Electronics,Chennai,West,Cash,6,40198,2026-04-10,241188
+1001,Tablet,Electronics,Salem,West,UPI,10,77963,2026-09-15,779630
+1001,Keyboard,Accessories,Pondicherry,South,Debit Card,2,27517,2026-12-17,55034
+1001,Keyboard,Electronics,Coimbatore,West,Cash,9,47029,2026-06-24,423261
+1001,Tablet,Electronics,Trichy,East,UPI,6,97591,2026-11-02,585546
+1001,Tablet,Electronics,Coimbatore,West,Net Banking,1,30289,2026-11-12,30289
+1001,Phone,Electronics,Pondicherry,South,Cash,9,53652,2026-02-26,482868
+1001,Laptop,Accessories,Madurai,North,UPI,3,57636,2026-04-27,172908
+1001,Keyboard,Electronics,Madurai,South,Net Banking,6,48562,2026-04-22,291372
+1001,Mouse,Electronics,Salem,West,UPI,2,28339,2026-08-09,56678
+1001,Keyboard,Accessories,Madurai,West,Credit Card,3,10221,2026-02-02,30663
+1001,Laptop,Electronics,Madurai,East,Cash,7,59048,2026-04-21,413336
+1001,Tablet,Electronics,Trichy,East,Net Banking,8,31219,2026-09-21,249752
+1001,Keyboard,Electronics,Coimbatore,South,Cash,7,3294,2026-08-28,23058
+1001,Tablet,Electronics,Madurai,North,Cash,9,72328,2026-12-23,650952
+1001,Monitor,Accessories,Pondicherry,East,UPI,6,58304,2026-04-22,349824
+1001,Tablet,Electronics,Pondicherry,East,Cash,6,49949,2026-07-20,299694
+1001,Laptop,Electronics,Pondicherry,West,Net Banking,8,25969,2026-01-01,207752
+1001,Keyboard,Electronics,Coimbatore,South,Credit Card,4,85341,2026-07-18,341364
+1001,Phone,Accessories,Madurai,South,Debit Card,2,35485,2026-05-16,70970
+1001,Laptop,Electronics,Chennai,West,Debit Card,9,50774,2026-01-07,456966
+1001,Keyboard,Accessories,Trichy,East,Debit Card,9,91356,2026-12-31,822204
+1001,Laptop,Electronics,Chennai,West,UPI,3,63456,2026-06-07,190368
+1001,Phone,Accessories,Trichy,West,Net Banking,4,73696,2026-06-16,294784
+1001,Phone,Electronics,Salem,South,Net Banking,3,91442,2026-12-19,274326
+1001,Laptop,Electronics,Madurai,East,Debit Card,6,62383,2026-09-29,374298
+1001,Mouse,Electronics,Trichy,East,Cash,7,27684,2026-10-10,193788
+1001,Phone,Accessories,Pondicherry,East,Cash,6,90253,2026-07-04,541518
+1001,Mouse,Electronics,Trichy,West,Credit Card,6,32251,2026-09-04,193506
+1001,Laptop,Accessories,Madurai,North,Net Banking,3,89412,2026-11-15,268236
+1001,Laptop,Accessories,Salem,West,Cash,5,36139,2026-05-28,180695
+1001,Keyboard,Electronics,Madurai,North,UPI,8,87849,2026-12-18,702792
+1001,Mouse,Accessories,Madurai,North,Credit Card,8,14710,2026-12-08,117680
+1001,Laptop,Electronics,Madurai,East,Debit Card,8,82727,2026-11-11,661816
+1001,Laptop,Electronics,Chennai,West,Credit Card,6,7678,2026-01-29,46068
+1001,Laptop,Accessories,Coimbatore,East,Credit Card,1,21452,2026-01-11,21452
+1001,Phone,Accessories,Trichy,East,Cash,3,21002,2026-06-21,63006
+1001,Laptop,Electronics,Madurai,South,Cash,2,94125,2026-09-06,188250
+1001,Mouse,Electronics,Trichy,West,Cash,6,26657,2026-01-02,159942
+1001,Tablet,Electronics,Salem,South,Credit Card,2,12944,2026-10-15,25888
+1001,Mouse,Electronics,Trichy,East,UPI,8,62991,2026-11-24,503928
+1001,Phone,Accessories,Trichy,North,UPI,7,2648,2026-10-20,18536
+1001,Laptop,Accessories,Chennai,West,Credit Card,10,24235,2026-09-30,242350
+1001,Laptop,Electronics,Salem,South,Net Banking,4,68865,2026-09-12,275460
+1001,Keyboard,Electronics,Pondicherry,East,Cash,6,72244,2026-05-01,433464
+1001,Phone,Accessories,Pondicherry,North,Cash,7,64280,2026-06-15,449960
+1001,Monitor,Electronics,Chennai,South,Net Banking,6,99340,2026-12-25,596040
+1001,Phone,Accessories,Pondicherry,East,Net Banking,10,59083,2026-11-02,590830
+1001,Tablet,Accessories,Salem,South,Debit Card,5,28227,2026-09-26,141135
+1001,Mouse,Electronics,Trichy,East,Net Banking,1,27644,2026-09-04,27644
+1001,Keyboard,Electronics,Pondicherry,East,Credit Card,6,19541,2026-11-24,117246
+1001,Keyboard,Electronics,Coimbatore,South,Debit Card,1,25498,2026-04-30,25498
+1001,Keyboard,Accessories,Coimbatore,East,Debit Card,6,21407,2026-08-09,128442
+1001,Mouse,Accessories,Salem,South,Credit Card,9,94383,2026-09-24,849447
+1001,Monitor,Accessories,Salem,South,Net Banking,1,22545,2026-08-15,22545
+1001,Mouse,Accessories,Trichy,North,Credit Card,1,46487,2026-07-12,46487
+1001,Monitor,Electronics,Trichy,East,Net Banking,2,67874,2026-04-04,135748
+1001,Tablet,Accessories,Coimbatore,South,Net Banking,7,64351,2026-04-12,450457
+1001,Monitor,Accessories,Madurai,North,UPI,8,73983,2026-04-03,591864
+1001,Tablet,Electronics,Trichy,West,Debit Card,6,85367,2026-10-13,512202
+1001,Tablet,Electronics,Chennai,South,Debit Card,8,57458,2026-11-19,459664
+1001,Tablet,Accessories,Chennai,North,Cash,5,46069,2026-01-25,230345
+1001,Tablet,Electronics,Trichy,South,Cash,1,95796,2026-01-06,95796
+1001,Mouse,Electronics,Salem,East,UPI,5,73933,2026-06-10,369665
+1001,Tablet,Electronics,Trichy,North,Net Banking,8,2962,2026-07-22,23696
+1001,Tablet,Accessories,Coimbatore,North,Cash,10,14355,2026-10-25,143550
+1001,Monitor,Accessories,Madurai,South,Net Banking,7,52187,2026-11-08,365309
+1001,Keyboard,Accessories,Coimbatore,East,Credit Card,5,77500,2026-01-24,387500
+1001,Phone,Electronics,Coimbatore,North,UPI,9,71297,2026-10-19,641673
+1001,Monitor,Electronics,Trichy,South,Net Banking,7,49823,2026-03-06,348761
+1001,Laptop,Accessories,Coimbatore,East,Debit Card,8,58273,2026-12-03,466184
+1001,Keyboard,Accessories,Coimbatore,East,UPI,5,33724,2026-08-30,168620
+1001,Phone,Accessories,Pondicherry,West,Net Banking,2,28564,2026-10-18,57128
+1001,Keyboard,Electronics,Madurai,West,UPI,9,61060,2026-11-18,549540
+1001,Tablet,Accessories,Salem,East,Credit Card,2,99953,2026-08-23,199906
+1001,Tablet,Accessories,Pondicherry,South,Debit Card,6,62898,2026-03-20,377388
+1001,Monitor,Accessories,Pondicherry,East,Net Banking,2,60686,2026-05-08,121372
+1001,Monitor,Accessories,Madurai,East,UPI,6,6950,2026-06-27,41700
+1001,Laptop,Electronics,Salem,South,Net Banking,5,72335,2026-03-04,361675
+1001,Keyboard,Electronics,Trichy,South,UPI,9,1676,2026-09-05,15084
+1001,Phone,Accessories,Pondicherry,South,Cash,1,4155,2026-05-08,4155
+1001,Laptop,Electronics,Trichy,North,Credit Card,5,23961,2026-06-07,119805
+1001,Keyboard,Accessories,Pondicherry,North,Credit Card,2,16400,2026-04-05,32800
+1001,Phone,Accessories,Pondicherry,East,Net Banking,4,35804,2026-07-11,143216
+1001,Laptop,Accessories,Salem,North,Cash,6,30786,2026-05-25,184716
+1001,Keyboard,Electronics,Chennai,North,UPI,1,76058,2026-04-25,76058
+1001,Tablet,Electronics,Trichy,North,Debit Card,2,9047,2026-07-15,18094
+1001,Phone,Accessories,Salem,East,Credit Card,10,33010,2026-01-27,330100
+1001,Phone,Electronics,Coimbatore,North,Credit Card,8,49747,2026-06-25,397976
+1001,Phone,Accessories,Madurai,South,Credit Card,8,58760,2026-05-01,470080
+1001,Tablet,Electronics,Chennai,South,Cash,8,3887,2026-05-24,31096
+1001,Laptop,Accessories,Pondicherry,North,Net Banking,8,53658,2026-08-19,429264
+1001,Monitor,Electronics,Salem,South,Debit Card,10,35886,2026-11-03,358860
+1001,Laptop,Electronics,Salem,West,Cash,3,66163,2026-10-30,198489
+1001,Laptop,Accessories,Coimbatore,South,Net Banking,4,62967,2026-07-29,251868
+1001,Keyboard,Accessories,Pondicherry,South,UPI,1,85281,2026-01-08,85281
+1001,Laptop,Electronics,Chennai,East,Cash,5,73901,2026-11-25,369505
+1001,Laptop,Accessories,Coimbatore,North,UPI,6,81582,2026-09-21,489492
+1001,Monitor,Accessories,Madurai,East,Net Banking,4,95306,2026-04-10,381224
+1001,Laptop,Accessories,Salem,East,Cash,3,84302,2026-11-04,252906
+1001,Mouse,Electronics,Trichy,West,UPI,1,83966,2026-01-06,83966
+1001,Mouse,Electronics,Chennai,West,Net Banking,1,96506,2026-01-30,96506
+1001,Monitor,Electronics,Pondicherry,North,Net Banking,4,30630,2026-05-12,122520
+1001,Laptop,Electronics,Madurai,North,Debit Card,6,1995,2026-11-09,11970
+1001,Tablet,Electronics,Madurai,North,Net Banking,9,92678,2026-12-27,834102
+1001,Phone,Electronics,Chennai,East,Credit Card,5,43384,2026-02-10,216920
+1001,Laptop,Accessories,Madurai,West,Credit Card,3,15589,2026-02-15,46767
+1001,Laptop,Accessories,Madurai,West,UPI,3,92043,2026-04-30,276129
+1001,Phone,Electronics,Pondicherry,South,Credit Card,5,10373,2026-11-18,51865
+1001,Mouse,Accessories,Pondicherry,North,Cash,7,39546,2026-03-11,276822
+1001,Tablet,Accessories,Coimbatore,East,Debit Card,9,26932,2026-09-15,242388
+1001,Phone,Electronics,Pondicherry,East,UPI,5,69304,2026-01-17,346520
+1001,Keyboard,Electronics,Madurai,South,Debit Card,7,85780,2026-02-08,600460
+1001,Monitor,Electronics,Coimbatore,South,Cash,4,46827,2026-02-27,187308
+1001,Mouse,Accessories,Pondicherry,West,UPI,3,25946,2026-08-07,77838
+1001,Mouse,Accessories,Salem,North,Net Banking,9,91637,2026-06-21,824733
+1001,Laptop,Accessories,Madurai,South,Net Banking,2,7283,2026-09-08,14566
+1001,Laptop,Accessories,Chennai,North,Cash,7,91798,2026-06-11,642586
+1001,Laptop,Electronics,Salem,South,UPI,5,54255,2026-03-19,271275
+1001,Tablet,Electronics,Coimbatore,West,Cash,10,34788,2026-06-11,347880
+1001,Phone,Accessories,Coimbatore,East,UPI,5,50067,2026-01-14,250335
+1001,Tablet,Accessories,Pondicherry,East,Credit Card,5,16130,2026-11-07,80650
+1001,Mouse,Electronics,Salem,North,Debit Card,5,62022,2026-10-31,310110
+1001,Tablet,Electronics,Chennai,East,Credit Card,4,48800,2026-04-28,195200
+1001,Laptop,Electronics,Pondicherry,South,Credit Card,9,42571,2026-08-02,383139
+1001,Laptop,Electronics,Chennai,North,UPI,6,78761,2026-03-31,472566
+1001,Phone,Accessories,Chennai,North,Debit Card,2,19695,2026-09-05,39390
+1001,Mouse,Electronics,Pondicherry,South,UPI,7,50200,2026-04-23,351400
+1001,Mouse,Electronics,Salem,West,Cash,1,73249,2026-10-07,73249
+1001,Tablet,Electronics,Pondicherry,South,Net Banking,6,26533,2026-07-21,159198
+1001,Laptop,Accessories,Coimbatore,North,Cash,5,49752,2026-03-18,248760
+1001,Phone,Accessories,Coimbatore,West,Credit Card,1,9036,2026-08-30,9036
+1001,Keyboard,Electronics,Pondicherry,East,Net Banking,10,12986,2026-07-24,129860
+1001,Keyboard,Electronics,Coimbatore,North,UPI,3,8923,2026-08-21,26769
+1001,Monitor,Electronics,Coimbatore,East,Net Banking,3,28359,2026-01-19,85077
+1001,Monitor,Accessories,Trichy,East,Net Banking,4,77616,2026-03-08,310464
+1001,Mouse,Electronics,Salem,North,Cash,2,83446,2026-11-12,166892
+1001,Keyboard,Accessories,Salem,South,Cash,6,49520,2026-08-07,297120
+1001,Phone,Accessories,Trichy,East,UPI,4,85889,2026-02-05,343556
+1001,Laptop,Accessories,Chennai,West,Credit Card,3,41149,2026-12-29,123447
+1001,Tablet,Electronics,Chennai,East,Debit Card,3,57458,2026-05-22,172374
+1001,Mouse,Accessories,Coimbatore,West,Cash,8,43965,2026-02-05,351720
+1001,Tablet,Electronics,Salem,North,Credit Card,10,54665,2026-05-20,546650
+1001,Monitor,Accessories,Madurai,North,UPI,4,65619,2026-10-17,262476
+1001,Laptop,Electronics,Madurai,East,Debit Card,7,66309,2026-05-30,464163
+1001,Mouse,Accessories,Trichy,South,Cash,2,56348,2026-07-20,112696
+1001,Monitor,Accessories,Trichy,East,Debit Card,5,82529,2026-10-07,412645
+1001,Monitor,Electronics,Salem,East,Debit Card,1,19328,2026-06-25,19328
+1001,Tablet,Accessories,Salem,East,Cash,6,86629,2026-02-28,519774
+1001,Tablet,Accessories,Madurai,West,Cash,10,986,2026-09-14,9860
+1001,Phone,Electronics,Chennai,West,Cash,8,15260,2026-09-12,122080
+1001,Keyboard,Electronics,Salem,South,UPI,9,56476,2026-06-24,508284
+1001,Mouse,Accessories,Pondicherry,East,Debit Card,3,79465,2026-08-04,238395
+1001,Mouse,Electronics,Trichy,West,UPI,10,42480,2026-02-27,424800
+1001,Mouse,Electronics,Coimbatore,West,Credit Card,3,58389,2026-05-01,175167
+1001,Phone,Electronics,Trichy,South,Debit Card,5,9579,2026-08-16,47895
+1001,Mouse,Accessories,Pondicherry,North,Debit Card,6,8850,2026-05-15,53100
+1001,Tablet,Accessories,Chennai,West,Debit Card,3,11826,2026-04-06,35478
+1001,Phone,Accessories,Salem,West,Debit Card,7,45649,2026-10-26,319543
+1001,Monitor,Electronics,Chennai,North,Credit Card,2,97536,2026-10-03,195072
+1001,Mouse,Accessories,Pondicherry,South,UPI,5,24881,2026-10-30,124405
+1001,Monitor,Electronics,Pondicherry,West,Credit Card,6,9497,2026-02-02,56982
+1001,Keyboard,Electronics,Madurai,East,Credit Card,2,22764,2026-01-21,45528
+1001,Laptop,Accessories,Chennai,South,Debit Card,2,74367,2026-07-28,148734
+1001,Phone,Accessories,Pondicherry,West,UPI,1,85427,2026-04-02,85427
+1001,Laptop,Electronics,Coimbatore,South,UPI,3,62643,2026-05-25,187929
+1001,Monitor,Electronics,Coimbatore,East,UPI,4,86116,2026-02-16,344464
+1001,Monitor,Electronics,Pondicherry,South,Cash,5,96985,2026-11-30,484925
+1001,Monitor,Electronics,Pondicherry,West,Debit Card,5,62402,2026-02-18,312010
+1001,Keyboard,Accessories,Pondicherry,South,Debit Card,4,23202,2026-02-25,92808
+1001,Tablet,Electronics,Salem,East,Credit Card,1,81780,2026-11-02,81780
+1001,Tablet,Accessories,Chennai,North,Credit Card,3,26868,2026-01-09,80604
+1001,Tablet,Accessories,Salem,East,Net Banking,2,44754,2026-03-02,89508
+1001,Laptop,Accessories,Trichy,North,Debit Card,4,33084,2026-04-14,132336
+1001,Mouse,Electronics,Salem,West,Credit Card,4,4887,2026-07-15,19548
+1001,Tablet,Accessories,Salem,East,UPI,9,72061,2026-11-25,648549
+1001,Phone,Accessories,Trichy,North,Debit Card,6,49374,2026-07-13,296244
+1001,Keyboard,Accessories,Pondicherry,West,Debit Card,6,13002,2026-09-28,78012
+1001,Phone,Electronics,Madurai,South,Net Banking,8,58477,2026-10-01,467816
+1001,Laptop,Electronics,Trichy,East,Cash,2,35196,2026-04-10,70392
+1001,Mouse,Accessories,Pondicherry,North,Credit Card,5,29371,2026-01-23,146855
+1001,Laptop,Accessories,Coimbatore,East,Net Banking,3,4738,2026-10-25,14214
+1001,Phone,Accessories,Coimbatore,North,Debit Card,4,87782,2026-11-12,351128
+1001,Monitor,Electronics,Salem,South,Net Banking,10,14695,2026-06-03,146950
+1001,Tablet,Accessories,Trichy,West,Cash,2,39584,2026-04-27,79168
+1001,Keyboard,Electronics,Chennai,South,Credit Card,1,98450,2026-07-18,98450
+1001,Phone,Accessories,Pondicherry,South,Net Banking,10,95723,2026-08-21,957230
+1001,Phone,Electronics,Pondicherry,South,Credit Card,6,53771,2026-04-12,322626
+1001,Monitor,Accessories,Trichy,East,Debit Card,4,66587,2026-10-30,266348
+1001,Keyboard,Electronics,Trichy,North,Net Banking,6,24078,2026-07-04,144468
+1001,Keyboard,Electronics,Madurai,East,Credit Card,5,32845,2026-01-22,164225
+1001,Laptop,Electronics,Coimbatore,North,Cash,6,59912,2026-07-12,359472
+1001,Phone,Electronics,Salem,East,Net Banking,3,6303,2026-06-24,18909
+1001,Tablet,Electronics,Chennai,East,Cash,2,81924,2026-01-12,163848
+1001,Phone,Accessories,Trichy,East,Cash,2,21448,2026-09-26,42896
+1001,Tablet,Accessories,Salem,East,Debit Card,3,4617,2026-07-21,13851
+1001,Tablet,Electronics,Coimbatore,South,Cash,10,69259,2026-04-06,692590
+1001,Laptop,Accessories,Chennai,South,Credit Card,1,41895,2026-07-20,41895
+1001,Tablet,Accessories,Chennai,West,Debit Card,4,33333,2026-06-24,133332
+1001,Phone,Accessories,Madurai,South,Net Banking,9,70396,2026-04-17,633564
+1001,Mouse,Electronics,Trichy,East,Cash,7,22076,2026-11-14,154532
+1001,Keyboard,Electronics,Pondicherry,West,UPI,1,22650,2026-05-14,22650
+1001,Laptop,Accessories,Pondicherry,North,Net Banking,5,19338,2026-01-05,96690
+1001,Mouse,Accessories,Pondicherry,West,Debit Card,6,13148,2026-05-06,78888
+1001,Mouse,Accessories,Pondicherry,East,Credit Card,2,16228,2026-04-08,32456
+1001,Tablet,Accessories,Madurai,North,UPI,5,12154,2026-12-08,60770
+1001,Phone,Accessories,Chennai,North,Debit Card,8,89576,2026-11-28,716608
+1001,Keyboard,Accessories,Salem,East,UPI,2,45097,2026-02-10,90194
+1001,Laptop,Electronics,Salem,South,Net Banking,1,8210,2026-04-05,8210
+1001,Laptop,Accessories,Pondicherry,West,Credit Card,4,49598,2026-03-21,198392
+1001,Monitor,Electronics,Trichy,West,Debit Card,2,7476,2026-11-25,14952
+1001,Mouse,Accessories,Salem,North,Credit Card,5,46450,2026-09-03,232250
+1001,Tablet,Electronics,Madurai,North,UPI,8,57976,2026-07-03,463808
+1001,Tablet,Electronics,Salem,North,UPI,5,85226,2026-07-28,426130
+1001,Tablet,Accessories,Coimbatore,West,Cash,1,20528,2026-04-18,20528
+1001,Monitor,Electronics,Chennai,West,Cash,7,59153,2026-03-01,414071
+1001,Keyboard,Accessories,Chennai,West,Credit Card,1,29123,2026-04-28,29123
+1001,Keyboard,Electronics,Chennai,North,UPI,3,65785,2026-12-14,197355
+1001,Mouse,Accessories,Madurai,West,UPI,10,48328,2026-01-26,483280
+1001,Laptop,Electronics,Chennai,East,UPI,9,53461,2026-01-21,481149
+1001,Mouse,Accessories,Madurai,East,UPI,2,41739,2026-05-17,83478
+1001,Phone,Electronics,Trichy,South,Net Banking,2,78730,2026-08-02,157460
+1001,Keyboard,Accessories,Trichy,North,Credit Card,8,99600,2026-10-09,796800
+1001,Mouse,Electronics,Chennai,South,Debit Card,10,18236,2026-02-26,182360
+1001,Keyboard,Accessories,Chennai,East,Debit Card,7,29583,2026-11-26,207081
+1001,Keyboard,Accessories,Coimbatore,West,Debit Card,8,20454,2026-03-09,163632
+1001,Phone,Accessories,Pondicherry,East,Cash,3,73987,2026-07-12,221961
+1001,Keyboard,Electronics,Madurai,North,Debit Card,9,61241,2026-01-30,551169
+1001,Mouse,Accessories,Coimbatore,South,Cash,5,86393,2026-09-29,431965
+1001,Monitor,Electronics,Salem,East,Credit Card,2,44411,2026-03-13,88822
+1001,Monitor,Accessories,Chennai,East,Credit Card,6,65274,2026-05-30,391644
+1001,Phone,Accessories,Trichy,North,Debit Card,9,35901,2026-06-01,323109
+1001,Phone,Electronics,Trichy,South,Cash,5,83346,2026-01-28,416730
+1001,Keyboard,Accessories,Trichy,North,Debit Card,2,65079,2026-04-19,130158
+1001,Monitor,Accessories,Chennai,West,Net Banking,9,99036,2026-10-30,891324
+1001,Tablet,Electronics,Salem,East,Debit Card,4,7078,2026-10-27,28312
+1001,Monitor,Accessories,Pondicherry,South,Net Banking,10,94718,2026-06-15,947180
+1001,Phone,Electronics,Coimbatore,West,UPI,3,49330,2026-04-05,147990
+1001,Mouse,Accessories,Trichy,North,Credit Card,1,63415,2026-12-07,63415
+1001,Mouse,Accessories,Chennai,West,UPI,10,42857,2026-06-14,428570
+1001,Monitor,Electronics,Coimbatore,North,UPI,5,19943,2026-11-15,99715
+1001,Tablet,Accessories,Madurai,East,Debit Card,9,95917,2026-09-22,863253
+1001,Laptop,Accessories,Salem,North,Credit Card,1,33883,2026-03-08,33883
+1001,Mouse,Electronics,Coimbatore,South,Net Banking,7,10356,2026-09-17,72492
+1001,Laptop,Accessories,Trichy,South,Debit Card,8,75025,2026-07-01,600200
+1001,Mouse,Electronics,Chennai,West,UPI,3,38272,2026-10-16,114816
+1001,Laptop,Electronics,Trichy,South,UPI,2,51317,2026-06-24,102634
+1001,Mouse,Electronics,Coimbatore,West,Net Banking,9,49102,2026-01-12,441918
+1001,Laptop,Accessories,Madurai,West,Net Banking,10,56366,2026-11-26,563660
+1001,Tablet,Accessories,Trichy,North,UPI,10,79440,2026-03-29,794400
+1001,Keyboard,Electronics,Coimbatore,West,Credit Card,7,23890,2026-07-08,167230
+1001,Monitor,Accessories,Pondicherry,South,Debit Card,3,99911,2026-09-01,299733
+1001,Phone,Electronics,Pondicherry,West,Debit Card,9,45582,2026-01-07,410238
+1001,Monitor,Electronics,Pondicherry,West,Cash,10,3307,2026-04-08,33070
+1001,Laptop,Electronics,Madurai,East,UPI,2,12224,2026-10-17,24448
+1001,Keyboard,Accessories,Chennai,North,Credit Card,8,87806,2026-02-22,702448
+1001,Keyboard,Electronics,Pondicherry,West,UPI,10,79468,2026-03-11,794680
+1001,Mouse,Accessories,Pondicherry,East,UPI,3,60293,2026-06-22,180879
+1001,Mouse,Accessories,Salem,South,Net Banking,4,11075,2026-02-02,44300
+1001,Monitor,Accessories,Pondicherry,South,Debit Card,7,53561,2026-07-24,374927
+1001,Mouse,Electronics,Salem,North,Cash,3,96066,2026-01-28,288198
+1001,Monitor,Accessories,Chennai,North,UPI,2,19709,2026-07-05,39418
+1001,Tablet,Accessories,Salem,South,Credit Card,3,12549,2026-10-31,37647
+1001,Mouse,Accessories,Salem,East,Net Banking,6,35759,2026-10-29,214554
+1001,Tablet,Electronics,Pondicherry,South,Cash,10,67806,2026-02-06,678060
+1001,Monitor,Accessories,Madurai,West,Net Banking,10,95988,2026-06-03,959880
+1001,Tablet,Accessories,Madurai,South,UPI,5,64200,2026-09-05,321000
+1001,Monitor,Accessories,Chennai,East,Net Banking,10,37385,2026-05-14,373850
+1001,Mouse,Accessories,Pondicherry,South,Debit Card,9,55973,2026-08-23,503757
+1001,Keyboard,Electronics,Chennai,South,UPI,2,9855,2026-07-19,19710
+1001,Phone,Accessories,Trichy,East,Net Banking,6,50329,2026-11-25,301974
+1001,Keyboard,Electronics,Salem,North,UPI,1,8908,2026-02-12,8908
+1001,Monitor,Accessories,Chennai,South,Credit Card,2,6589,2026-12-13,13178
+1001,Laptop,Electronics,Chennai,South,Net Banking,8,6047,2026-09-24,48376
+1001,Monitor,Electronics,Trichy,South,UPI,2,96287,2026-08-03,192574
+1001,Mouse,Electronics,Pondicherry,West,Credit Card,3,12923,2026-06-11,38769
+1001,Tablet,Electronics,Salem,South,Net Banking,10,18734,2026-03-25,187340
+1001,Laptop,Accessories,Salem,West,Debit Card,1,40129,2026-01-16,40129
+1001,Laptop,Accessories,Salem,South,UPI,1,18880,2026-04-02,18880
+1001,Laptop,Accessories,Coimbatore,North,UPI,6,15850,2026-11-24,95100
+1001,Monitor,Accessories,Pondicherry,North,UPI,6,85995,2026-01-23,515970
+1001,Mouse,Electronics,Madurai,North,UPI,6,79312,2026-03-17,475872
+1001,Monitor,Accessories,Pondicherry,North,UPI,7,86381,2026-02-12,604667
+1001,Mouse,Accessories,Trichy,South,Net Banking,2,43919,2026-01-14,87838
+1001,Monitor,Accessories,Coimbatore,East,Debit Card,10,58530,2026-03-13,585300
+1001,Laptop,Accessories,Coimbatore,West,Cash,7,63972,2026-12-25,447804
+1001,Keyboard,Electronics,Trichy,South,UPI,10,59643,2026-06-16,596430
+1001,Tablet,Electronics,Coimbatore,East,Net Banking,6,33386,2026-05-02,200316
+1001,Monitor,Accessories,Madurai,South,Debit Card,2,16465,2026-10-19,32930
+1001,Monitor,Accessories,Pondicherry,East,UPI,2,12300,2026-06-23,24600
+1001,Mouse,Accessories,Trichy,West,Cash,6,46338,2026-09-28,278028
+1001,Monitor,Electronics,Salem,East,Cash,1,65485,2026-03-26,65485
+1001,Laptop,Accessories,Coimbatore,East,Cash,1,45478,2026-04-01,45478
+1001,Keyboard,Accessories,Chennai,South,Cash,10,34426,2026-06-22,344260
+1001,Laptop,Accessories,Trichy,West,Credit Card,6,2175,2026-03-17,13050
+1001,Keyboard,Electronics,Chennai,North,Cash,4,61841,2026-12-23,247364
+1001,Monitor,Electronics,Coimbatore,East,Net Banking,1,47493,2026-09-28,47493
+1001,Laptop,Electronics,Madurai,East,UPI,5,12137,2026-05-28,60685
+1001,Laptop,Electronics,Pondicherry,East,Cash,7,31532,2026-04-14,220724
+1001,Laptop,Accessories,Coimbatore,West,Cash,3,93730,2026-11-23,281190
+1001,Phone,Electronics,Coimbatore,East,Debit Card,9,61748,2026-05-27,555732
+1001,Monitor,Accessories,Madurai,East,Net Banking,5,11722,2026-03-14,58610
+1001,Keyboard,Electronics,Trichy,West,UPI,8,42123,2026-12-29,336984
+1001,Laptop,Electronics,Madurai,South,UPI,8,24991,2026-06-15,199928
+1001,Laptop,Electronics,Pondicherry,North,Cash,4,7841,2026-01-23,31364
+1001,Tablet,Electronics,Chennai,South,Credit Card,1,20348,2026-02-15,20348
+1001,Laptop,Electronics,Coimbatore,North,UPI,4,6689,2026-07-02,26756
+1001,Tablet,Electronics,Pondicherry,North,Net Banking,5,70179,2026-05-09,350895
+1001,Mouse,Accessories,Chennai,North,Cash,10,67415,2026-03-07,674150
+1001,Keyboard,Electronics,Pondicherry,East,Net Banking,1,23034,2026-09-23,23034
+1001,Tablet,Electronics,Trichy,East,Cash,5,73861,2026-09-25,369305
+1001,Tablet,Accessories,Pondicherry,North,UPI,1,78170,2026-09-11,78170
+1001,Tablet,Electronics,Pondicherry,East,Debit Card,4,11198,2026-11-09,44792
+1001,Laptop,Electronics,Salem,South,UPI,1,55158,2026-11-23,55158
+1001,Keyboard,Electronics,Chennai,East,UPI,8,65345,2026-02-13,522760
+1001,Monitor,Accessories,Salem,East,Debit Card,10,48143,2026-12-05,481430
+1001,Tablet,Electronics,Chennai,West,Debit Card,2,47914,2026-01-11,95828
+1001,Mouse,Electronics,Salem,South,Cash,10,16487,2026-11-19,164870
+1001,Mouse,Accessories,Pondicherry,South,Debit Card,8,41657,2026-08-24,333256
+1001,Mouse,Accessories,Trichy,West,Credit Card,9,88249,2026-02-12,794241
+1001,Phone,Accessories,Trichy,East,Credit Card,2,19913,2026-07-23,39826
+1001,Keyboard,Electronics,Chennai,West,Net Banking,6,69657,2026-03-07,417942
+1001,Mouse,Electronics,Chennai,East,Debit Card,6,55752,2026-08-12,334512
+1001,Keyboard,Accessories,Trichy,South,Cash,1,25594,2026-10-25,25594
+1001,Keyboard,Electronics,Pondicherry,East,UPI,3,39427,2026-05-08,118281
+1001,Mouse,Electronics,Chennai,North,Net Banking,4,32147,2026-05-07,128588
+1001,Keyboard,Accessories,Coimbatore,East,Cash,1,23451,2026-03-21,23451
+1001,Monitor,Accessories,Chennai,East,UPI,10,38433,2026-05-24,384330
+1001,Mouse,Electronics,Madurai,North,Debit Card,10,28093,2026-09-15,280930
+1001,Tablet,Accessories,Trichy,East,Credit Card,8,28505,2026-09-15,228040
+1001,Monitor,Accessories,Salem,East,Cash,3,74915,2026-08-03,224745
+1001,Laptop,Electronics,Madurai,South,Net Banking,8,9290,2026-12-24,74320
+1001,Keyboard,Electronics,Coimbatore,South,Net Banking,6,13260,2026-07-14,79560
+1001,Mouse,Electronics,Trichy,East,Net Banking,3,47101,2026-01-14,141303
+1001,Monitor,Accessories,Coimbatore,East,UPI,3,96978,2026-10-12,290934
+1001,Tablet,Accessories,Salem,South,UPI,3,57557,2026-06-18,172671
+1001,Keyboard,Accessories,Madurai,South,Net Banking,9,24259,2026-06-24,218331
+1001,Mouse,Electronics,Pondicherry,North,Cash,1,53270,2026-02-04,53270
+1001,Laptop,Accessories,Coimbatore,South,Net Banking,5,78603,2026-01-31,393015
+1001,Phone,Electronics,Coimbatore,South,Debit Card,5,63147,2026-04-19,315735
+1001,Tablet,Accessories,Salem,West,UPI,3,27324,2026-10-02,81972
+1001,Tablet,Accessories,Chennai,East,Debit Card,6,88203,2026-04-13,529218
+1001,Keyboard,Accessories,Madurai,North,Credit Card,7,43031,2026-12-22,301217
+1001,Laptop,Accessories,Madurai,South,Credit Card,8,67354,2026-06-23,538832
+1001,Keyboard,Electronics,Madurai,West,Cash,5,30873,2026-11-20,154365
+1001,Keyboard,Electronics,Trichy,West,Debit Card,10,97745,2026-07-09,977450
+1001,Laptop,Electronics,Pondicherry,West,Credit Card,10,26807,2026-03-10,268070
+1001,Phone,Accessories,Pondicherry,East,Cash,2,58914,2026-10-08,117828
+1001,Mouse,Electronics,Chennai,West,Debit Card,2,5135,2026-03-17,10270
+1001,Laptop,Electronics,Coimbatore,East,Debit Card,3,30729,2026-11-16,92187
+1001,Laptop,Electronics,Pondicherry,North,Debit Card,2,51071,2026-03-14,102142
+1001,Keyboard,Accessories,Pondicherry,East,Debit Card,9,76548,2026-03-01,688932
+1001,Mouse,Accessories,Chennai,North,Credit Card,7,87642,2026-08-15,613494
+1001,Tablet,Electronics,Pondicherry,South,UPI,5,89191,2026-01-24,445955
+1001,Mouse,Accessories,Chennai,West,Net Banking,10,48607,2026-12-31,486070
+1001,Keyboard,Accessories,Salem,South,Debit Card,7,71114,2026-08-01,497798
+1001,Mouse,Accessories,Pondicherry,South,Debit Card,1,92903,2026-03-16,92903
+1001,Phone,Accessories,Pondicherry,West,UPI,2,80245,2026-10-16,160490
+1001,Phone,Accessories,Trichy,South,Credit Card,5,1033,2026-06-24,5165
+1001,Tablet,Electronics,Chennai,East,UPI,5,90936,2026-10-01,454680
+1001,Laptop,Accessories,Pondicherry,North,Net Banking,6,21922,2026-12-10,131532
+1001,Keyboard,Electronics,Chennai,South,Net Banking,9,68396,2026-10-13,615564
+1001,Tablet,Accessories,Madurai,North,UPI,4,22505,2026-08-02,90020
+1001,Tablet,Electronics,Madurai,West,Debit Card,2,65159,2026-09-09,130318
+1001,Mouse,Electronics,Trichy,North,Debit Card,8,32822,2026-01-04,262576
+1001,Monitor,Electronics,Madurai,North,UPI,9,71468,2026-05-04,643212
+1001,Keyboard,Accessories,Trichy,West,Debit Card,5,13041,2026-12-17,65205
+1001,Keyboard,Electronics,Chennai,North,Credit Card,8,24590,2026-02-08,196720
+1001,Mouse,Accessories,Salem,West,Credit Card,7,80986,2026-07-10,566902
+1001,Tablet,Accessories,Pondicherry,North,Cash,4,53681,2026-06-13,214724
+1001,Tablet,Accessories,Pondicherry,East,UPI,7,22079,2026-09-23,154553
+1001,Phone,Accessories,Trichy,North,Cash,7,13684,2026-01-25,95788
+1001,Keyboard,Accessories,Trichy,West,UPI,1,38373,2026-09-16,38373
+1001,Mouse,Electronics,Chennai,North,Credit Card,3,18096,2026-07-31,54288
+1001,Phone,Accessories,Coimbatore,East,Cash,2,90685,2026-05-15,181370
+1001,Keyboard,Accessories,Pondicherry,West,UPI,8,76484,2026-10-01,611872
+1001,Tablet,Electronics,Madurai,South,Net Banking,10,75429,2026-03-27,754290
+1001,Laptop,Electronics,Trichy,East,UPI,4,27392,2026-02-13,109568
+1001,Mouse,Accessories,Pondicherry,South,Cash,6,51284,2026-03-08,307704
+1001,Keyboard,Accessories,Chennai,East,Net Banking,1,24656,2026-07-13,24656
+1001,Mouse,Electronics,Coimbatore,North,Credit Card,5,93957,2026-07-29,469785
+1001,Tablet,Electronics,Chennai,South,Credit Card,1,43477,2026-12-02,43477
+1001,Mouse,Electronics,Coimbatore,South,Debit Card,2,37265,2026-04-27,74530
+1001,Laptop,Electronics,Coimbatore,West,Net Banking,3,20234,2026-11-17,60702
+1001,Laptop,Accessories,Salem,West,Credit Card,3,42035,2026-10-09,126105
+1001,Phone,Accessories,Coimbatore,North,Net Banking,6,38528,2026-10-07,231168
+1001,Phone,Accessories,Trichy,South,Cash,3,13940,2026-04-07,41820
+1001,Tablet,Electronics,Coimbatore,East,UPI,9,39996,2026-01-03,359964
+1001,Phone,Accessories,Coimbatore,East,Cash,2,81464,2026-05-16,162928
+1001,Keyboard,Accessories,Salem,South,Net Banking,3,24554,2026-04-29,73662
+1001,Laptop,Electronics,Pondicherry,North,UPI,5,89590,2026-09-05,447950
+1001,Mouse,Electronics,Coimbatore,South,UPI,2,94865,2026-11-16,189730
+1001,Tablet,Electronics,Madurai,East,UPI,1,85874,2026-04-09,85874
+1001,Laptop,Electronics,Chennai,South,UPI,3,40731,2026-08-05,122193
+1001,Monitor,Electronics,Pondicherry,South,UPI,2,32434,2026-06-01,64868
+1001,Tablet,Electronics,Pondicherry,South,UPI,7,11991,2026-12-31,83937
+1001,Tablet,Accessories,Chennai,South,UPI,4,81368,2026-10-28,325472
+1001,Keyboard,Electronics,Trichy,South,Credit Card,6,92742,2026-06-01,556452
+1001,Mouse,Electronics,Coimbatore,North,UPI,1,61030,2026-08-24,61030
+1001,Laptop,Accessories,Coimbatore,West,Cash,7,51891,2026-01-29,363237
+1001,Phone,Electronics,Coimbatore,West,Net Banking,9,71628,2026-03-27,644652
+1001,Phone,Electronics,Chennai,North,Net Banking,6,89628,2026-06-28,537768
+1001,Monitor,Accessories,Trichy,North,Debit Card,9,98484,2026-03-11,886356
+1001,Tablet,Electronics,Coimbatore,South,Cash,5,40531,2026-04-29,202655
+1001,Monitor,Accessories,Trichy,West,Cash,9,88643,2026-05-21,797787
+1001,Phone,Accessories,Pondicherry,North,Debit Card,3,51599,2026-10-16,154797
+1001,Tablet,Accessories,Chennai,East,Debit Card,9,89591,2026-06-27,806319
+1001,Monitor,Electronics,Trichy,North,Cash,5,29423,2026-12-17,147115
+1001,Monitor,Accessories,Coimbatore,West,Net Banking,1,34735,2026-02-21,34735
+1001,Monitor,Accessories,Coimbatore,West,UPI,8,93916,2026-10-25,751328
+1001,Tablet,Electronics,Trichy,South,Cash,1,55916,2026-06-19,55916
+1001,Tablet,Electronics,Coimbatore,West,Debit Card,2,6035,2026-10-11,12070
+1001,Tablet,Accessories,Pondicherry,West,Debit Card,1,15627,2026-06-20,15627
+1001,Laptop,Electronics,Coimbatore,South,Debit Card,3,14016,2026-10-24,42048
+1001,Mouse,Electronics,Pondicherry,South,Cash,9,2857,2026-01-30,25713
+1001,Keyboard,Electronics,Chennai,North,Credit Card,4,23972,2026-12-17,95888
+1001,Keyboard,Accessories,Chennai,West,Cash,2,68031,2026-07-28,136062
+1001,Phone,Accessories,Madurai,South,Debit Card,9,50816,2026-07-13,457344
+1001,Tablet,Electronics,Chennai,East,UPI,9,75183,2026-09-04,676647
+1001,Monitor,Accessories,Chennai,South,Net Banking,10,71465,2026-08-14,714650
+1001,Mouse,Electronics,Chennai,South,Credit Card,5,86584,2026-01-27,432920
+1001,Tablet,Electronics,Salem,South,Debit Card,1,47815,2026-07-11,47815
+1001,Tablet,Electronics,Chennai,West,Debit Card,3,83067,2026-09-23,249201
+1001,Laptop,Accessories,Pondicherry,South,Net Banking,5,56066,2026-07-12,280330
+1001,Monitor,Electronics,Pondicherry,North,Credit Card,2,81995,2026-05-20,163990
+1001,Keyboard,Electronics,Trichy,South,Credit Card,1,72916,2026-05-24,72916
+1001,Mouse,Accessories,Madurai,East,Cash,7,14628,2026-01-05,102396
+1001,Laptop,Accessories,Salem,North,UPI,1,13328,2026-09-30,13328
+1001,Mouse,Accessories,Madurai,East,Cash,9,4628,2026-09-23,41652
+1001,Phone,Electronics,Chennai,North,UPI,4,10454,2026-12-17,41816
+1001,Monitor,Accessories,Salem,West,Credit Card,8,60670,2026-08-18,485360
+1001,Monitor,Accessories,Trichy,North,Cash,6,69795,2026-08-19,418770
+1001,Keyboard,Electronics,Coimbatore,South,Cash,5,88891,2026-05-11,444455
+1001,Keyboard,Accessories,Madurai,West,Debit Card,4,25067,2026-08-02,100268
+1001,Mouse,Electronics,Salem,East,Cash,5,1407,2026-11-20,7035
+1001,Phone,Electronics,Chennai,South,UPI,1,57209,2026-06-28,57209
+1001,Tablet,Accessories,Chennai,West,UPI,5,45212,2026-04-16,226060
+1001,Mouse,Accessories,Madurai,West,Credit Card,9,76527,2026-06-03,688743
+1001,Phone,Accessories,Coimbatore,West,Credit Card,6,9228,2026-11-28,55368
+1001,Monitor,Electronics,Chennai,South,Net Banking,7,31303,2026-07-24,219121
+1001,Mouse,Accessories,Madurai,West,Credit Card,10,32238,2026-02-18,322380
+1001,Phone,Electronics,Trichy,North,UPI,10,38505,2026-03-06,385050
+1001,Keyboard,Accessories,Trichy,North,Net Banking,6,38301,2026-08-24,229806
+1001,Keyboard,Accessories,Coimbatore,South,Cash,4,67636,2026-03-18,270544
+1001,Keyboard,Electronics,Chennai,West,Net Banking,7,46575,2026-04-04,326025
+1001,Laptop,Electronics,Coimbatore,East,Debit Card,9,11768,2026-02-04,105912
+1001,Keyboard,Electronics,Coimbatore,North,Debit Card,7,43938,2026-06-28,307566
+1001,Keyboard,Electronics,Madurai,West,UPI,7,13047,2026-03-30,91329
+1001,Monitor,Accessories,Salem,North,UPI,1,20613,2026-08-15,20613
+1001,Phone,Electronics,Coimbatore,South,Credit Card,5,46147,2026-01-24,230735
+1001,Mouse,Electronics,Trichy,West,Cash,5,43563,2026-08-21,217815
+1001,Keyboard,Accessories,Madurai,South,UPI,2,6020,2026-11-19,12040
+1001,Monitor,Electronics,Trichy,East,Credit Card,4,44072,2026-09-05,176288
+1001,Mouse,Electronics,Salem,East,Credit Card,7,50385,2026-10-08,352695
+1001,Keyboard,Electronics,Salem,South,Debit Card,6,35557,2026-09-19,213342
+1001,Phone,Electronics,Trichy,East,Credit Card,4,97212,2026-11-25,388848
+1001,Phone,Electronics,Salem,West,Debit Card,5,99833,2026-10-16,499165
+1001,Monitor,Accessories,Coimbatore,East,Cash,7,44720,2026-09-08,313040
+1001,Laptop,Electronics,Trichy,North,UPI,10,17397,2026-11-18,173970
+1001,Mouse,Electronics,Salem,South,Debit Card,9,7687,2026-09-27,69183
+1001,Tablet,Accessories,Salem,East,Debit Card,10,75354,2026-08-15,753540
+1001,Keyboard,Electronics,Trichy,North,Debit Card,1,2660,2026-12-14,2660
+1001,Tablet,Accessories,Chennai,West,UPI,10,67513,2026-01-10,675130
+1001,Mouse,Accessories,Madurai,West,Debit Card,6,11674,2026-02-17,70044
+1001,Keyboard,Electronics,Salem,North,Cash,10,46801,2026-05-22,468010
+1001,Laptop,Electronics,Pondicherry,East,Cash,7,65708,2026-01-21,459956
+1001,Phone,Electronics,Chennai,North,UPI,10,73903,2026-02-27,739030
+1001,Phone,Accessories,Salem,East,UPI,8,4329,2026-05-20,34632
+1001,Mouse,Accessories,Coimbatore,West,Net Banking,9,22845,2026-06-17,205605
+1001,Keyboard,Accessories,Chennai,North,Net Banking,4,54663,2026-09-07,218652
+1001,Mouse,Electronics,Salem,North,UPI,2,21163,2026-05-30,42326
+1001,Monitor,Electronics,Pondicherry,West,Credit Card,1,58720,2026-12-20,58720
+1001,Phone,Electronics,Madurai,West,Credit Card,5,31502,2026-04-05,157510
+1001,Keyboard,Accessories,Chennai,West,Cash,9,53812,2026-12-16,484308
+1001,Laptop,Accessories,Chennai,West,Net Banking,2,16428,2026-05-31,32856
+1001,Phone,Accessories,Madurai,West,Credit Card,9,54907,2026-03-01,494163
+1001,Keyboard,Accessories,Salem,South,Debit Card,5,10764,2026-08-22,53820
+1001,Tablet,Electronics,Pondicherry,West,Net Banking,4,10254,2026-07-05,41016
+1001,Mouse,Electronics,Chennai,South,Net Banking,6,5683,2026-01-04,34098
+1001,Keyboard,Accessories,Madurai,South,Net Banking,6,38789,2026-08-26,232734
+1001,Monitor,Accessories,Salem,East,Credit Card,6,46181,2026-11-03,277086
+1001,Tablet,Electronics,Pondicherry,North,Net Banking,8,45335,2026-08-30,362680
+1001,Monitor,Electronics,Chennai,North,Net Banking,1,19028,2026-12-20,19028
+1001,Tablet,Accessories,Madurai,West,UPI,3,20525,2026-11-17,61575
+1001,Monitor,Accessories,Chennai,North,Credit Card,8,79038,2026-02-28,632304
+1001,Laptop,Accessories,Coimbatore,North,Credit Card,8,19654,2026-09-26,157232
+1001,Mouse,Electronics,Coimbatore,East,Cash,1,11405,2026-09-27,11405
+1001,Phone,Accessories,Pondicherry,South,UPI,8,67569,2026-11-17,540552
+1001,Monitor,Accessories,Pondicherry,West,UPI,2,79862,2026-12-18,159724
+1001,Keyboard,Electronics,Trichy,South,Debit Card,7,73799,2026-11-18,516593
+1001,Phone,Accessories,Madurai,West,Net Banking,10,13805,2026-05-21,138050
+1001,Mouse,Electronics,Pondicherry,West,UPI,2,18350,2026-08-18,36700
+1001,Mouse,Accessories,Coimbatore,East,Debit Card,2,51799,2026-10-01,103598
+1001,Mouse,Electronics,Salem,North,Debit Card,10,69884,2026-07-24,698840
+1001,Laptop,Accessories,Salem,North,Net Banking,3,9821,2026-12-28,29463
+1001,Monitor,Accessories,Coimbatore,South,Debit Card,9,80197,2026-10-07,721773
+1001,Phone,Accessories,Coimbatore,West,Debit Card,2,1217,2026-04-25,2434
+1001,Mouse,Electronics,Salem,West,Debit Card,4,41786,2026-06-11,167144
+1001,Phone,Electronics,Madurai,East,Net Banking,8,95098,2026-03-27,760784
+1001,Mouse,Accessories,Chennai,North,Net Banking,1,82884,2026-08-06,82884
+1001,Tablet,Accessories,Madurai,West,Debit Card,9,86330,2026-10-27,776970
+1001,Monitor,Accessories,Trichy,East,Cash,5,72616,2026-07-04,363080
+1001,Monitor,Accessories,Coimbatore,West,Cash,2,65174,2026-12-20,130348
+1001,Keyboard,Accessories,Trichy,East,Cash,2,83037,2026-02-13,166074
+1001,Monitor,Accessories,Coimbatore,South,Debit Card,8,17231,2026-05-12,137848
+1001,Mouse,Accessories,Salem,East,Net Banking,9,4709,2026-02-21,42381
+1001,Tablet,Electronics,Pondicherry,North,Debit Card,9,36593,2026-08-20,329337
+1001,Monitor,Accessories,Chennai,East,UPI,9,42129,2026-07-12,379161
+1001,Monitor,Accessories,Pondicherry,East,Debit Card,3,92324,2026-06-28,276972
+1001,Tablet,Electronics,Pondicherry,South,Cash,5,98537,2026-08-29,492685
+1001,Keyboard,Electronics,Madurai,East,UPI,7,58760,2026-10-09,411320
+1001,Monitor,Electronics,Chennai,West,Net Banking,10,68108,2026-11-29,681080
+1001,Laptop,Electronics,Salem,North,Net Banking,2,8649,2026-07-12,17298
+1001,Tablet,Accessories,Madurai,West,Debit Card,3,28967,2026-01-05,86901
+1001,Mouse,Electronics,Trichy,East,Cash,10,6756,2026-06-06,67560
+1001,Monitor,Accessories,Salem,South,Debit Card,7,28733,2026-07-21,201131
+1001,Laptop,Electronics,Coimbatore,West,Net Banking,2,70952,2026-12-18,141904
+1001,Keyboard,Accessories,Pondicherry,South,Debit Card,1,36520,2026-04-17,36520
+1001,Tablet,Accessories,Pondicherry,East,Cash,9,42407,2026-04-05,381663
+1001,Laptop,Accessories,Coimbatore,South,Credit Card,7,55159,2026-04-13,386113
+1001,Phone,Electronics,Trichy,South,Cash,6,15951,2026-05-14,95706
+1001,Laptop,Electronics,Pondicherry,East,Debit Card,10,70169,2026-07-05,701690
+1001,Phone,Accessories,Pondicherry,North,Debit Card,6,8148,2026-12-10,48888
+1001,Keyboard,Accessories,Salem,South,Net Banking,9,52771,2026-01-20,474939
+1001,Tablet,Accessories,Trichy,West,Cash,1,83101,2026-10-21,83101
+1001,Monitor,Accessories,Salem,South,Net Banking,8,28348,2026-03-17,226784
+1001,Monitor,Electronics,Chennai,North,Net Banking,8,26876,2026-06-08,215008
+1001,Mouse,Accessories,Salem,North,Credit Card,6,26792,2026-02-24,160752
+1001,Keyboard,Accessories,Pondicherry,South,Net Banking,5,93854,2026-07-01,469270
+1001,Keyboard,Electronics,Coimbatore,East,UPI,10,33038,2026-04-23,330380
+1001,Keyboard,Electronics,Coimbatore,North,Credit Card,5,93670,2026-03-31,468350
+1001,Mouse,Electronics,Chennai,South,Net Banking,10,30852,2026-12-25,308520
+1001,Keyboard,Accessories,Madurai,North,UPI,4,51960,2026-02-05,207840
+1001,Phone,Accessories,Salem,North,UPI,1,89638,2026-06-06,89638
+1001,Laptop,Accessories,Coimbatore,South,UPI,10,92904,2026-01-21,929040
+1001,Tablet,Electronics,Salem,West,Net Banking,5,5937,2026-09-02,29685
+1001,Tablet,Accessories,Coimbatore,North,Debit Card,1,61740,2026-01-21,61740
+1001,Tablet,Accessories,Pondicherry,North,Net Banking,10,11808,2026-01-14,118080
+1001,Monitor,Electronics,Pondicherry,West,Credit Card,8,17414,2026-01-22,139312
+1001,Monitor,Electronics,Pondicherry,North,UPI,3,76096,2026-06-07,228288
+1001,Phone,Accessories,Chennai,South,Debit Card,9,32207,2026-02-19,289863
+1001,Phone,Electronics,Chennai,West,Credit Card,8,24624,2026-01-11,196992
+1001,Tablet,Electronics,Chennai,East,Cash,9,70678,2026-07-16,636102
+1001,Phone,Electronics,Salem,South,UPI,4,99946,2026-11-20,399784
+1001,Monitor,Electronics,Pondicherry,North,Cash,4,92454,2026-09-01,369816
+1001,Tablet,Accessories,Chennai,West,UPI,10,74148,2026-05-11,741480
+1001,Mouse,Electronics,Salem,South,Net Banking,3,84665,2026-12-26,253995
+1001,Keyboard,Electronics,Pondicherry,North,Net Banking,3,90245,2026-03-25,270735
+1001,Tablet,Accessories,Trichy,North,Credit Card,5,8521,2026-11-13,42605
+1001,Keyboard,Electronics,Madurai,South,Net Banking,9,5921,2026-12-30,53289
+1001,Phone,Electronics,Madurai,West,Debit Card,2,70940,2026-05-02,141880
+1001,Tablet,Electronics,Salem,South,Debit Card,2,19063,2026-07-14,38126
+1001,Laptop,Accessories,Trichy,South,Cash,7,84558,2026-02-08,591906
+1001,Tablet,Accessories,Salem,East,Credit Card,1,88380,2026-07-23,88380
+1001,Monitor,Electronics,Salem,North,Debit Card,2,48617,2026-04-05,97234
+1001,Tablet,Electronics,Salem,North,Credit Card,10,45553,2026-12-03,455530
+1001,Keyboard,Accessories,Salem,North,Cash,1,19899,2026-04-11,19899
+1001,Monitor,Accessories,Chennai,East,Debit Card,9,31087,2026-03-18,279783
+1001,Keyboard,Accessories,Madurai,South,Debit Card,3,18312,2026-02-07,54936
+1001,Phone,Accessories,Chennai,West,Net Banking,3,97179,2026-03-12,291537
+1001,Laptop,Electronics,Trichy,South,Cash,2,97348,2026-03-29,194696
+1001,Tablet,Electronics,Trichy,East,UPI,2,75827,2026-10-21,151654
+1001,Keyboard,Electronics,Salem,North,Credit Card,4,41935,2026-11-13,167740
+1001,Monitor,Accessories,Trichy,South,Debit Card,5,16623,2026-05-14,83115
+1001,Keyboard,Electronics,Chennai,West,Net Banking,10,35701,2026-08-11,357010
+1001,Keyboard,Electronics,Madurai,South,Debit Card,8,92353,2026-07-03,738824
+1001,Tablet,Electronics,Coimbatore,South,Cash,3,98042,2026-05-19,294126
+1001,Mouse,Electronics,Pondicherry,West,Cash,5,87517,2026-03-01,437585
+1001,Tablet,Electronics,Coimbatore,North,Cash,8,15072,2026-05-22,120576
+1001,Tablet,Electronics,Coimbatore,West,Debit Card,6,10253,2026-02-25,61518
+1001,Laptop,Electronics,Chennai,East,UPI,7,90570,2026-02-16,633990
+1001,Mouse,Electronics,Chennai,East,Cash,9,39800,2026-07-26,358200
+1001,Mouse,Electronics,Madurai,South,Cash,4,75440,2026-02-16,301760
+1001,Mouse,Accessories,Madurai,North,Credit Card,3,89250,2026-05-02,267750
+1001,Tablet,Electronics,Trichy,North,Cash,6,81275,2026-09-28,487650
+1001,Phone,Electronics,Madurai,West,UPI,9,61106,2026-11-01,549954
+1001,Keyboard,Electronics,Coimbatore,South,Cash,1,92024,2026-04-23,92024
+1001,Mouse,Accessories,Salem,East,UPI,9,79588,2026-05-07,716292
+1001,Tablet,Accessories,Coimbatore,South,Cash,6,18299,2026-02-07,109794
+1001,Phone,Accessories,Salem,East,Credit Card,4,78460,2026-05-01,313840
+1001,Mouse,Electronics,Pondicherry,West,Net Banking,7,57783,2026-09-19,404481
+1001,Phone,Electronics,Chennai,North,Credit Card,4,34626,2026-09-29,138504
+1001,Tablet,Accessories,Madurai,West,Cash,2,35742,2026-01-30,71484
+1001,Phone,Accessories,Chennai,East,UPI,10,76125,2026-09-06,761250
+1001,Monitor,Accessories,Salem,South,Credit Card,3,41406,2026-10-17,124218
+1001,Tablet,Electronics,Trichy,North,UPI,10,9793,2026-07-28,97930
+1001,Mouse,Electronics,Coimbatore,South,Credit Card,2,58036,2026-10-09,116072
+1001,Phone,Electronics,Salem,East,Cash,10,39544,2026-10-18,395440
+1001,Tablet,Electronics,Pondicherry,South,Debit Card,2,56672,2026-01-13,113344
+1001,Keyboard,Electronics,Madurai,North,Debit Card,4,26288,2026-11-18,105152
+1001,Keyboard,Electronics,Pondicherry,North,Cash,1,45977,2026-06-23,45977
+1001,Laptop,Accessories,Pondicherry,South,Debit Card,10,49197,2026-08-06,491970
+1001,Laptop,Electronics,Madurai,East,Credit Card,4,41312,2026-12-17,165248
+1001,Tablet,Accessories,Chennai,North,Debit Card,9,57168,2026-11-11,514512
+1001,Laptop,Accessories,Salem,East,Cash,2,81034,2026-08-15,162068
+1001,Laptop,Electronics,Coimbatore,South,Debit Card,3,43829,2026-09-25,131487
+1001,Laptop,Accessories,Pondicherry,North,Cash,10,82581,2026-09-12,825810
+1001,Mouse,Electronics,Salem,East,Net Banking,5,97740,2026-09-04,488700
+1001,Laptop,Accessories,Pondicherry,East,Debit Card,5,23551,2026-04-30,117755
+1001,Phone,Accessories,Coimbatore,East,Credit Card,4,1387,2026-02-17,5548
+1001,Phone,Electronics,Trichy,West,Credit Card,3,8354,2026-01-11,25062
+1001,Keyboard,Accessories,Pondicherry,West,UPI,9,80938,2026-12-06,728442
+1001,Monitor,Accessories,Chennai,East,Net Banking,6,67128,2026-06-26,402768
+1001,Monitor,Electronics,Chennai,South,Net Banking,2,84618,2026-06-20,169236
+1001,Tablet,Electronics,Chennai,East,Debit Card,6,99686,2026-04-29,598116
+1001,Mouse,Electronics,Salem,East,Debit Card,3,31924,2026-05-16,95772
+1001,Tablet,Electronics,Salem,North,Cash,10,6310,2026-02-01,63100
+1001,Keyboard,Accessories,Salem,North,Debit Card,8,3604,2026-07-10,28832
+1001,Keyboard,Electronics,Madurai,East,Debit Card,3,36424,2026-09-01,109272
+1001,Phone,Accessories,Trichy,South,Credit Card,5,61769,2026-04-04,308845
+1001,Monitor,Electronics,Pondicherry,South,Credit Card,4,57290,2026-10-27,229160
+1001,Laptop,Accessories,Madurai,East,Net Banking,10,58407,2026-08-16,584070
+1001,Keyboard,Electronics,Chennai,South,Net Banking,7,6257,2026-04-17,43799
+1001,Monitor,Electronics,Trichy,West,UPI,10,71172,2026-01-29,711720
+1001,Mouse,Electronics,Pondicherry,East,Net Banking,1,73752,2026-12-08,73752
+1001,Mouse,Accessories,Madurai,East,Credit Card,6,70352,2026-06-19,422112
+1001,Tablet,Accessories,Pondicherry,North,Cash,9,95137,2026-06-11,856233
+1001,Mouse,Electronics,Madurai,South,Credit Card,10,35615,2026-09-26,356150
+1001,Monitor,Electronics,Pondicherry,East,Cash,5,35936,2026-01-30,179680
+1001,Monitor,Accessories,Trichy,South,UPI,9,69122,2026-06-17,622098
+1001,Laptop,Electronics,Pondicherry,East,UPI,2,37077,2026-11-25,74154
+1001,Phone,Electronics,Pondicherry,North,UPI,3,26579,2026-05-09,79737
+1001,Phone,Accessories,Chennai,East,Cash,3,6478,2026-01-26,19434
+1001,Tablet,Electronics,Salem,South,Credit Card,5,71814,2026-12-29,359070
+1001,Keyboard,Electronics,Madurai,North,Credit Card,4,62451,2026-07-19,249804
+1001,Mouse,Accessories,Chennai,North,Credit Card,1,65562,2026-04-17,65562
+1001,Phone,Electronics,Madurai,North,UPI,5,1858,2026-12-20,9290
+1001,Phone,Accessories,Salem,North,UPI,4,86807,2026-04-27,347228
+1001,Monitor,Electronics,Madurai,South,Cash,10,75785,2026-11-16,757850
+1001,Laptop,Electronics,Chennai,North,Cash,6,65782,2026-07-26,394692
+1001,Keyboard,Accessories,Chennai,West,Credit Card,2,16670,2026-02-26,33340
+1001,Laptop,Accessories,Chennai,West,Debit Card,5,32515,2026-11-30,162575
+1001,Monitor,Electronics,Pondicherry,West,Credit Card,1,98025,2026-09-18,98025
+1001,Laptop,Accessories,Salem,West,Credit Card,3,13835,2026-07-07,41505
+1001,Keyboard,Electronics,Coimbatore,South,Net Banking,8,91779,2026-05-06,734232
+1001,Keyboard,Accessories,Chennai,North,Net Banking,5,83234,2026-10-02,416170
+1001,Tablet,Electronics,Chennai,North,Cash,4,30701,2026-04-01,122804
+1001,Phone,Accessories,Pondicherry,North,Credit Card,2,70146,2026-09-24,140292
+1001,Monitor,Accessories,Trichy,North,Credit Card,10,77832,2026-03-20,778320
+1001,Keyboard,Electronics,Trichy,South,Debit Card,4,53017,2026-01-12,212068
+1001,Laptop,Electronics,Pondicherry,South,UPI,4,73666,2026-07-31,294664
+1001,Laptop,Electronics,Pondicherry,West,Net Banking,1,51230,2026-12-29,51230
+1001,Laptop,Accessories,Salem,East,Net Banking,10,64497,2026-01-05,644970
+1001,Keyboard,Accessories,Madurai,South,Net Banking,1,13727,2026-09-29,13727
+1001,Monitor,Accessories,Salem,East,UPI,1,90746,2026-05-07,90746
+1001,Tablet,Electronics,Coimbatore,West,Credit Card,4,73531,2026-08-11,294124
+1001,Mouse,Electronics,Trichy,West,Cash,10,37624,2026-03-29,376240
+1001,Keyboard,Accessories,Pondicherry,South,Cash,7,73187,2026-05-15,512309
+1001,Monitor,Electronics,Pondicherry,West,UPI,8,23404,2026-05-10,187232
+1001,Keyboard,Electronics,Coimbatore,North,Credit Card,4,24892,2026-08-16,99568
+1001,Tablet,Accessories,Coimbatore,East,Debit Card,10,25194,2026-03-06,251940
+1001,Mouse,Accessories,Pondicherry,West,Cash,1,43722,2026-04-07,43722
+1001,Phone,Electronics,Coimbatore,West,Credit Card,1,31539,2026-06-15,31539
+1001,Monitor,Electronics,Chennai,West,UPI,6,87959,2026-04-13,527754
+1001,Laptop,Electronics,Chennai,North,Debit Card,4,1908,2026-11-03,7632
+1001,Keyboard,Accessories,Madurai,East,Cash,10,45568,2026-03-25,455680
+1001,Tablet,Electronics,Pondicherry,East,UPI,10,70894,2026-01-13,708940
+1001,Monitor,Accessories,Pondicherry,South,Debit Card,6,2595,2026-05-17,15570
+1001,Phone,Electronics,Madurai,South,Cash,6,45157,2026-09-28,270942
+1001,Laptop,Electronics,Coimbatore,North,Cash,2,34298,2026-06-18,68596
+1001,Keyboard,Accessories,Pondicherry,East,Credit Card,7,94675,2026-09-16,662725
+1001,Monitor,Accessories,Pondicherry,North,Net Banking,9,71989,2026-06-07,647901
+1001,Phone,Accessories,Chennai,East,Credit Card,3,30516,2026-10-03,91548
+1001,Keyboard,Accessories,Salem,North,Net Banking,2,87250,2026-02-24,174500
+1001,Tablet,Electronics,Chennai,West,UPI,7,91455,2026-10-20,640185
+1001,Laptop,Electronics,Pondicherry,East,UPI,3,613,2026-07-17,1839
+1001,Monitor,Electronics,Pondicherry,West,UPI,2,4687,2026-12-21,9374
+1001,Tablet,Accessories,Madurai,West,Credit Card,2,55914,2026-03-27,111828
+1001,Monitor,Electronics,Chennai,North,UPI,8,21138,2026-11-14,169104
+1001,Monitor,Electronics,Trichy,North,UPI,5,90586,2026-01-14,452930
+1001,Tablet,Accessories,Salem,South,Net Banking,8,75406,2026-01-31,603248
+1001,Monitor,Electronics,Madurai,North,UPI,9,75636,2026-01-12,680724
+1001,Monitor,Electronics,Madurai,North,Cash,10,83519,2026-08-05,835190
+1001,Monitor,Electronics,Chennai,West,Cash,8,12622,2026-01-20,100976
+1001,Laptop,Electronics,Madurai,North,Net Banking,7,14243,2026-08-08,99701
+1001,Keyboard,Accessories,Madurai,East,Net Banking,9,96748,2026-01-01,870732
+1001,Tablet,Accessories,Madurai,West,Credit Card,10,71610,2026-08-28,716100
+1001,Tablet,Electronics,Salem,West,Credit Card,3,21076,2026-11-25,63228
+1001,Keyboard,Accessories,Pondicherry,North,Credit Card,8,56529,2026-03-25,452232
+1001,Phone,Accessories,Salem,South,Credit Card,6,61302,2026-09-14,367812
+1001,Monitor,Electronics,Madurai,East,Net Banking,6,54965,2026-03-30,329790
+1001,Monitor,Accessories,Salem,West,Cash,2,10502,2026-11-14,21004
+1001,Phone,Accessories,Chennai,South,Debit Card,10,19179,2026-01-09,191790
+1001,Keyboard,Electronics,Salem,North,Debit Card,1,2809,2026-04-25,2809
+1001,Mouse,Electronics,Salem,North,Debit Card,5,27638,2026-05-01,138190
+1001,Tablet,Electronics,Salem,South,Net Banking,1,84553,2026-08-14,84553
+1001,Mouse,Electronics,Coimbatore,North,Debit Card,9,62606,2026-04-29,563454
+1001,Tablet,Electronics,Trichy,East,Cash,5,29899,2026-12-14,149495
+1001,Tablet,Accessories,Pondicherry,West,Debit Card,5,78006,2026-09-19,390030
+1001,Mouse,Accessories,Coimbatore,West,Cash,8,20527,2026-01-08,164216
+1001,Phone,Electronics,Coimbatore,East,Net Banking,4,78026,2026-01-05,312104
+1001,Monitor,Accessories,Salem,North,Debit Card,3,50520,2026-12-12,151560
+1001,Tablet,Electronics,Madurai,North,Net Banking,3,78223,2026-01-31,234669
+1001,Mouse,Electronics,Pondicherry,West,Cash,4,69812,2026-07-19,279248
+1001,Tablet,Accessories,Salem,West,Credit Card,1,74808,2026-09-11,74808
+1001,Mouse,Electronics,Trichy,East,Cash,2,41587,2026-02-26,83174
+1001,Tablet,Electronics,Coimbatore,West,Cash,2,23321,2026-06-07,46642
+1001,Phone,Electronics,Chennai,South,Net Banking,10,56559,2026-01-30,565590
+1001,Mouse,Accessories,Coimbatore,West,Credit Card,6,5667,2026-09-08,34002
+1001,Laptop,Electronics,Madurai,East,Credit Card,2,40845,2026-07-28,81690
+1001,Tablet,Accessories,Madurai,North,Cash,6,42708,2026-06-25,256248
+1001,Laptop,Electronics,Salem,South,Net Banking,6,16259,2026-07-28,97554
+1001,Keyboard,Accessories,Pondicherry,East,Debit Card,7,21630,2026-01-29,151410
+1001,Laptop,Accessories,Trichy,South,Debit Card,2,73658,2026-01-02,147316
+1001,Laptop,Accessories,Salem,South,UPI,3,1658,2026-04-14,4974
+1001,Phone,Electronics,Chennai,South,Credit Card,6,24256,2026-03-16,145536
+1001,Monitor,Electronics,Madurai,South,Net Banking,1,98461,2026-11-22,98461
+1001,Laptop,Accessories,Salem,East,Net Banking,1,68855,2026-07-07,68855
+1001,Keyboard,Electronics,Trichy,South,Credit Card,5,44443,2026-09-24,222215
+1001,Laptop,Electronics,Pondicherry,East,Debit Card,3,36881,2026-12-10,110643
+1001,Mouse,Electronics,Salem,North,Cash,9,16345,2026-06-26,147105
+1001,Laptop,Electronics,Coimbatore,East,Cash,2,66137,2026-05-24,132274
+1001,Keyboard,Electronics,Salem,North,Debit Card,9,25786,2026-10-04,232074
+1001,Phone,Electronics,Madurai,South,Credit Card,7,91254,2026-08-23,638778
+1001,Laptop,Accessories,Madurai,South,Debit Card,2,4352,2026-09-17,8704
+1001,Tablet,Electronics,Chennai,East,UPI,2,6085,2026-02-20,12170
+1001,Laptop,Accessories,Madurai,North,Credit Card,3,70304,2026-07-15,210912
+1001,Phone,Accessories,Salem,East,Debit Card,8,64187,2026-04-22,513496
+1001,Monitor,Accessories,Pondicherry,North,Cash,5,16481,2026-02-10,82405
+1001,Keyboard,Electronics,Salem,East,Net Banking,3,83397,2026-04-29,250191
+1001,Monitor,Electronics,Salem,North,Cash,5,92803,2026-10-24,464015
+1001,Tablet,Electronics,Madurai,South,UPI,5,94313,2026-08-02,471565
+1001,Monitor,Electronics,Chennai,West,Net Banking,9,29803,2026-05-16,268227
+1001,Keyboard,Accessories,Trichy,East,Cash,3,36378,2026-07-29,109134
+1001,Laptop,Accessories,Madurai,West,UPI,4,65208,2026-10-02,260832
+1001,Mouse,Electronics,Trichy,South,UPI,7,17037,2026-08-31,119259
+1001,Tablet,Accessories,Coimbatore,East,UPI,4,68684,2026-05-02,274736
+1001,Monitor,Electronics,Coimbatore,South,Cash,3,73361,2026-12-24,220083
+1001,Laptop,Accessories,Pondicherry,East,Net Banking,9,50090,2026-08-14,450810
+1001,Keyboard,Electronics,Pondicherry,North,Debit Card,9,47435,2026-08-12,426915
+1001,Laptop,Electronics,Pondicherry,West,Debit Card,10,42639,2026-07-30,426390
+1001,Tablet,Electronics,Salem,East,UPI,8,52174,2026-06-19,417392
+1001,Phone,Accessories,Pondicherry,North,Debit Card,9,56353,2026-06-26,507177
+1001,Laptop,Electronics,Trichy,East,Credit Card,9,54623,2026-06-01,491607
+1001,Mouse,Accessories,Chennai,North,Cash,7,12556,2026-12-13,87892
+1001,Monitor,Electronics,Trichy,West,Debit Card,5,27755,2026-01-15,138775
+1001,Phone,Electronics,Madurai,East,Credit Card,3,56318,2026-11-17,168954
+1001,Phone,Accessories,Coimbatore,East,Credit Card,3,30196,2026-03-06,90588
+1001,Phone,Accessories,Pondicherry,East,UPI,10,67076,2026-07-24,670760
+1001,Phone,Accessories,Pondicherry,North,Cash,5,86476,2026-02-05,432380
+1001,Keyboard,Electronics,Chennai,South,Cash,6,14376,2026-07-20,86256
+1001,Tablet,Accessories,Coimbatore,South,UPI,3,60893,2026-08-14,182679
+1001,Keyboard,Accessories,Madurai,South,Net Banking,1,90538,2026-11-23,90538
+1001,Laptop,Electronics,Coimbatore,East,Net Banking,5,82230,2026-09-23,411150
+1001,Keyboard,Electronics,Madurai,West,Cash,7,93077,2026-04-08,651539
+1001,Tablet,Accessories,Trichy,East,Net Banking,2,71847,2026-02-24,143694
+1001,Tablet,Accessories,Salem,South,Cash,4,53328,2026-01-31,213312
+1001,Mouse,Electronics,Salem,South,Cash,1,65685,2026-10-13,65685
+1001,Mouse,Accessories,Salem,East,Cash,7,48182,2026-01-28,337274
+1001,Keyboard,Electronics,Coimbatore,West,Cash,2,878,2026-01-19,1756
+1001,Tablet,Electronics,Madurai,North,UPI,1,44925,2026-02-16,44925
+1001,Tablet,Electronics,Trichy,East,UPI,10,40850,2026-09-07,408500
+1001,Keyboard,Accessories,Chennai,East,Net Banking,4,7683,2026-10-26,30732
+1001,Keyboard,Electronics,Trichy,West,Debit Card,5,62242,2026-03-05,311210
+1001,Tablet,Electronics,Chennai,West,Debit Card,10,30914,2026-03-21,309140
+1001,Tablet,Electronics,Salem,West,Cash,10,72799,2026-10-21,727990
+1001,Monitor,Accessories,Coimbatore,North,UPI,5,70199,2026-11-22,350995
+1001,Mouse,Accessories,Chennai,West,Debit Card,8,65392,2026-11-15,523136
+1001,Monitor,Accessories,Trichy,East,Cash,6,72066,2026-04-29,432396
+1001,Tablet,Electronics,Pondicherry,West,Net Banking,8,85927,2026-07-04,687416
+1001,Laptop,Electronics,Pondicherry,South,Debit Card,4,2964,2026-09-16,11856
+1001,Phone,Electronics,Coimbatore,West,Net Banking,1,74306,2026-01-26,74306
+1001,Phone,Accessories,Madurai,South,Net Banking,4,64702,2026-05-26,258808
+1001,Tablet,Accessories,Salem,East,Credit Card,9,86676,2026-12-05,780084
+1001,Tablet,Electronics,Chennai,South,Net Banking,9,81214,2026-06-20,730926
+1001,Keyboard,Electronics,Chennai,North,Debit Card,5,37681,2026-01-15,188405
+1001,Tablet,Accessories,Pondicherry,East,UPI,6,91914,2026-05-14,551484
+1001,Phone,Accessories,Coimbatore,South,Credit Card,10,62371,2026-07-02,623710
+1001,Mouse,Accessories,Trichy,North,Cash,9,18113,2026-10-08,163017
+1001,Monitor,Accessories,Madurai,West,Debit Card,5,84230,2026-03-20,421150
+1001,Mouse,Electronics,Madurai,North,Credit Card,8,91250,2026-10-20,730000
+1001,Tablet,Electronics,Madurai,West,Credit Card,3,79572,2026-10-07,238716
+1001,Laptop,Electronics,Chennai,West,Cash,10,56928,2026-04-09,569280
+1001,Keyboard,Electronics,Pondicherry,East,Credit Card,1,55023,2026-02-14,55023
+1001,Laptop,Electronics,Madurai,West,Cash,10,52957,2026-02-14,529570
+1001,Laptop,Electronics,Pondicherry,North,UPI,10,50312,2026-03-31,503120
+1001,Keyboard,Accessories,Salem,West,Net Banking,3,66572,2026-12-24,199716
+1001,Mouse,Electronics,Coimbatore,East,Net Banking,5,59414,2026-06-17,297070
+1001,Tablet,Electronics,Chennai,South,Net Banking,4,46553,2026-05-04,186212
+1001,Tablet,Electronics,Madurai,East,UPI,3,59869,2026-01-10,179607
+1001,Tablet,Electronics,Pondicherry,East,UPI,3,67179,2026-07-04,201537
+1001,Monitor,Electronics,Madurai,East,UPI,4,30950,2026-03-09,123800
+1001,Mouse,Electronics,Coimbatore,North,UPI,8,23459,2026-05-29,187672
+1001,Phone,Electronics,Chennai,North,UPI,4,69314,2026-06-16,277256
+1001,Laptop,Electronics,Pondicherry,West,UPI,5,37672,2026-12-28,188360
+1001,Mouse,Accessories,Trichy,South,Debit Card,5,36231,2026-08-14,181155
+1001,Phone,Accessories,Chennai,North,UPI,8,79362,2026-07-25,634896
+1001,Tablet,Accessories,Pondicherry,North,UPI,3,49257,2026-01-26,147771
+1001,Monitor,Electronics,Madurai,South,UPI,8,24638,2026-01-24,197104
+1001,Keyboard,Accessories,Coimbatore,East,Credit Card,10,99966,2026-04-04,999660
+1001,Mouse,Electronics,Pondicherry,East,Credit Card,9,83134,2026-06-13,748206
+1001,Keyboard,Accessories,Pondicherry,East,Cash,4,73827,2026-10-21,295308
+1001,Phone,Electronics,Coimbatore,East,Net Banking,5,73973,2026-03-27,369865
+1001,Laptop,Accessories,Salem,West,Net Banking,6,87102,2026-05-27,522612
+1001,Tablet,Electronics,Trichy,South,UPI,1,19443,2026-09-04,19443
+1001,Mouse,Accessories,Trichy,North,Net Banking,1,55435,2026-04-21,55435
+1001,Monitor,Electronics,Coimbatore,North,Cash,5,4077,2026-09-09,20385
+1001,Laptop,Electronics,Pondicherry,South,Cash,6,16351,2026-11-30,98106
+1001,Keyboard,Electronics,Salem,North,Cash,6,1093,2026-06-07,6558
+1001,Mouse,Accessories,Salem,South,Net Banking,8,43756,2026-11-20,350048
+1001,Monitor,Accessories,Trichy,South,Credit Card,5,51820,2026-07-27,259100
+1001,Laptop,Electronics,Madurai,South,UPI,2,31466,2026-03-20,62932
+1001,Tablet,Electronics,Trichy,East,Credit Card,6,35360,2026-04-15,212160
+1001,Tablet,Electronics,Pondicherry,South,Credit Card,1,71767,2026-04-30,71767
+1001,Mouse,Electronics,Trichy,South,Debit Card,3,51748,2026-01-05,155244
+1001,Tablet,Accessories,Salem,North,Cash,2,6336,2026-07-16,12672
+1001,Mouse,Electronics,Chennai,East,Debit Card,4,84365,2026-03-12,337460
+1001,Phone,Accessories,Madurai,West,Cash,5,46493,2026-08-29,232465
+1001,Laptop,Electronics,Chennai,West,Credit Card,8,69579,2026-05-04,556632
+1001,Laptop,Accessories,Salem,East,Cash,4,53327,2026-12-11,213308
+1001,Keyboard,Accessories,Madurai,East,UPI,9,33945,2026-12-26,305505
+1001,Monitor,Electronics,Trichy,North,UPI,1,46386,2026-03-25,46386
+1001,Mouse,Accessories,Coimbatore,East,Net Banking,10,45309,2026-04-08,453090
+1001,Tablet,Electronics,Trichy,West,Debit Card,6,22053,2026-03-02,132318
+1001,Mouse,Accessories,Madurai,East,Net Banking,3,9047,2026-09-19,27141
+1001,Mouse,Accessories,Salem,West,Net Banking,4,79157,2026-01-18,316628
+1001,Keyboard,Accessories,Madurai,East,Debit Card,5,90284,2026-04-06,451420
+1001,Mouse,Electronics,Coimbatore,West,UPI,5,30293,2026-06-17,151465
+1001,Keyboard,Electronics,Trichy,West,Credit Card,6,79340,2026-11-09,476040
+1001,Keyboard,Accessories,Trichy,South,Credit Card,3,36989,2026-09-25,110967
+1001,Laptop,Accessories,Chennai,East,UPI,10,5870,2026-08-10,58700
+1001,Keyboard,Electronics,Coimbatore,North,UPI,8,91461,2026-02-21,731688
+1001,Keyboard,Electronics,Pondicherry,East,Cash,2,27247,2026-01-30,54494
+1001,Mouse,Electronics,Pondicherry,North,Net Banking,10,31321,2026-10-16,313210
+1001,Mouse,Electronics,Chennai,South,Net Banking,10,82474,2026-06-23,824740
+1001,Laptop,Electronics,Salem,East,Credit Card,3,63851,2026-09-19,191553
+1001,Tablet,Electronics,Pondicherry,West,Debit Card,8,4611,2026-06-18,36888
+1001,Mouse,Electronics,Salem,East,Credit Card,2,21190,2026-08-21,42380
+1001,Laptop,Electronics,Madurai,South,Cash,6,85735,2026-12-25,514410
+1001,Monitor,Accessories,Trichy,West,Cash,7,20946,2026-07-13,146622
+1001,Laptop,Electronics,Salem,West,Cash,9,72945,2026-05-20,656505
+1001,Tablet,Accessories,Madurai,East,Credit Card,5,58719,2026-07-02,293595
+1001,Mouse,Electronics,Madurai,East,UPI,6,66755,2026-07-30,400530
+1001,Monitor,Electronics,Trichy,South,Debit Card,7,15371,2026-09-30,107597
+1001,Keyboard,Electronics,Salem,West,Debit Card,2,33563,2026-06-14,67126
+1001,Monitor,Accessories,Salem,East,Net Banking,9,761,2026-06-21,6849
+1001,Phone,Accessories,Pondicherry,East,Net Banking,9,1362,2026-08-29,12258
+1001,Mouse,Electronics,Trichy,East,UPI,9,92245,2026-02-26,830205
+1001,Monitor,Electronics,Chennai,North,Cash,6,19669,2026-07-07,118014
+1001,Monitor,Electronics,Pondicherry,East,Debit Card,5,23396,2026-10-28,116980
+1001,Keyboard,Accessories,Chennai,South,Debit Card,4,14464,2026-05-18,57856
+1001,Laptop,Accessories,Trichy,West,Net Banking,1,50823,2026-10-12,50823
+1001,Mouse,Electronics,Chennai,North,Cash,8,87791,2026-12-25,702328
+1001,Tablet,Accessories,Pondicherry,North,UPI,1,23706,2026-08-02,23706
+1001,Phone,Electronics,Madurai,South,Debit Card,8,8761,2026-04-08,70088
+1001,Laptop,Accessories,Chennai,East,Credit Card,1,19294,2026-02-15,19294
+1001,Tablet,Electronics,Madurai,West,UPI,1,67734,2026-08-27,67734
+1001,Tablet,Electronics,Pondicherry,North,Credit Card,1,19586,2026-11-14,19586
+1001,Tablet,Electronics,Chennai,West,UPI,7,92394,2026-04-22,646758
+1001,Laptop,Electronics,Madurai,South,Credit Card,2,53968,2026-07-21,107936
+1001,Mouse,Electronics,Chennai,North,Net Banking,4,43864,2026-01-09,175456
+1001,Laptop,Accessories,Chennai,North,Cash,7,52817,2026-11-16,369719
+1001,Mouse,Electronics,Pondicherry,West,Debit Card,7,81379,2026-09-27,569653
+1001,Keyboard,Electronics,Chennai,West,Cash,4,7376,2026-09-30,29504
+1001,Laptop,Electronics,Madurai,North,Net Banking,3,99392,2026-01-19,298176
+1001,Tablet,Accessories,Pondicherry,North,Cash,10,62575,2026-07-16,625750
+1001,Phone,Accessories,Pondicherry,North,Net Banking,5,16555,2026-07-12,82775
+1001,Monitor,Electronics,Madurai,East,Cash,6,96005,2026-03-12,576030
+1001,Mouse,Accessories,Chennai,North,Cash,3,70565,2026-12-16,211695
+1001,Phone,Electronics,Trichy,North,Debit Card,5,65340,2026-09-30,326700
+1001,Monitor,Accessories,Trichy,North,Debit Card,1,35679,2026-01-22,35679
+1001,Phone,Electronics,Coimbatore,North,Credit Card,1,10484,2026-05-29,10484
+1001,Keyboard,Accessories,Pondicherry,South,UPI,2,90039,2026-06-22,180078
+1001,Mouse,Accessories,Madurai,North,Net Banking,8,79865,2026-05-21,638920
+1001,Tablet,Accessories,Trichy,North,Credit Card,9,16074,2026-09-19,144666
+1001,Mouse,Accessories,Madurai,West,UPI,6,34175,2026-08-12,205050
+1001,Monitor,Accessories,Chennai,West,Net Banking,3,69897,2026-03-12,209691
+1001,Laptop,Electronics,Salem,South,Credit Card,8,7205,2026-10-24,57640
+1001,Mouse,Accessories,Coimbatore,East,Net Banking,4,62762,2026-08-11,251048
